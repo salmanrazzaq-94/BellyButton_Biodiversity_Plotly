@@ -1,5 +1,5 @@
 # PlotlyChallenge
-![image](https://github.com/CodyMorin25/PlotlyChallenge/blob/main/images/EscherichiaColi_NIAID.jpg)
+![image](./images/EscherichiaColi_NIAID.jpg)
 
 ## Purpose
 
@@ -9,7 +9,7 @@ The pupose of this project is to take data samples given to us in a json file ab
 
 In the intital image after creating the html and having all the data show up this is what the inital charts will look like:
 
-![image](https://github.com/CodyMorin25/PlotlyChallenge/blob/main/images/initaldata.png)
+![image](./images/initaldata.png)
 
 The next image shows clicking on arrow and hovering over the next sample you want to see next:
 
@@ -17,4 +17,4 @@ The next image shows clicking on arrow and hovering over the next sample you wan
 
 This last image shows after selecting another sample and all the relative information for that sample showing the charts:
 
-![image](https://github.com/CodyMorin25/PlotlyChallenge/blob/main/images/newdata.png)
+![image](./images/newdata.png)
