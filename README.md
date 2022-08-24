@@ -1,5 +1,5 @@
 # PlotlyChallenge
-![image](./images/NIAID.jpg)
+![image](./images/EscherichiaColi_NIAID.jpg)
 
 This app is being served at: https://salmanrazzaq-94.github.io/BellyButton_Biodiversity_Plotly/
 
